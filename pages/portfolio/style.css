@@ -1,0 +1,25 @@
+.texto {
+  padding: 103px 0;
+}
+
+.mb-80 {
+  margin-bottom: 80px;
+}
+
+.mb-150 {
+  margin-bottom: 150px;
+}
+
+.texto h2 {
+  margin-bottom: 28px;
+}
+
+.texto p {
+  width: 350px;
+  margin-bottom: 54px;
+}
+
+.texto button {
+  width: 175px;
+  text-align: center;
+}

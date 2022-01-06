@@ -1,0 +1,88 @@
+.entre-em-contato {
+  display: flex;
+  justify-content: space-between;
+  padding: 48px 0;
+  margin-bottom: 47px;
+}
+
+.texto-contato-p {
+  width: 635px;
+}
+
+.texto-contato-p p {
+  margin-bottom: 54px;
+}
+
+.contato-inputs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  width: 635px;
+}
+
+label {
+  font-family: "Public Sans", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 30px;
+  color: rgba(51, 50, 61, 0.8);
+  margin-bottom: 8px;
+}
+
+input {
+  all: unset;
+  box-sizing: border-box;
+  background-color: rgba(51, 50, 61, 0.1);
+  width: 635px;
+  padding: 15px;
+  margin-bottom: 24px;
+}
+
+input:focus,
+textarea:focus {
+  border: 2px solid rgba(51, 50, 61);
+  border-radius: 4px;
+}
+
+textarea {
+  all: unset;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+  background-color: rgba(51, 50, 61, 0.1);
+  resize: none;
+  width: 635px;
+  padding: 15px;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+}
+
+.h-48 {
+  height: 48px;
+}
+
+.h-96 {
+  height: 96px;
+}
+
+.inputs button {
+  all: unset;
+  box-sizing: border-box;
+  background-color: #203a4c;
+  color: #ffffff;
+  font-family: "Public Sans", sans-serif;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 200px;
+  padding: 17px 0;
+}
+
+button:hover {
+  background-color: #5fb4a2;
+}

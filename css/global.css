@@ -1,0 +1,154 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #f2f2f2;
+}
+
+.padding {
+  padding: 64px 165px 150px 165px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Ibarra Real Nova", serif;
+  color: #33323d;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 50px;
+  letter-spacing: -0.446429px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 42px;
+  letter-spacing: -0.357143px;
+}
+
+h3 {
+  font-size: 32px;
+  line-height: 36px;
+  letter-spacing: -0.285714px;
+}
+
+p {
+  font-family: "Public Sans", sans-serif;
+  color: #33323d;
+}
+
+.p-16 {
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.p-15 {
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.mg-left-32 {
+  margin-left: 32px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 54px;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+}
+
+.header a,
+footer a {
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.a-header {
+  color: #33323d;
+}
+
+.a-header--pagina {
+  color: #5fb4a2;
+}
+
+.li-meio {
+  margin-left: 42px;
+  margin-right: 42px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.contato {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contato h2 {
+  width: 367px;
+}
+
+.contato a {
+  width: 162px;
+}
+
+.display-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.imagem img {
+  max-width: 540px;
+}
+
+.borda-top-bottom {
+  border-top: 1px solid rgba(51, 50, 61, 0.15);
+  border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+footer {
+  background-color: #33323d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 165px;
+}
+
+.nav-footer {
+  display: flex;
+  align-items: center;
+}
+
+.ul-footer-links {
+  margin-left: 48px;
+}
+
+.a-footer {
+  color: #ffffff;
+}
+
+.redes-meio {
+  margin-right: 15px;
+  margin-left: 15px;
+}

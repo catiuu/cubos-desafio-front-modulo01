@@ -1,0 +1,40 @@
+.hero-section {
+  background-image: url("../../assets/home/image-homepage-hero.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 243px 645px 0px 0px;
+  margin-bottom: 147px;
+}
+
+.hello {
+  background-color: #fafafa;
+  width: 445px;
+  height: 357px;
+}
+
+.hello h1 {
+  padding: 56px 28px 53px 28px;
+}
+
+.sobre {
+  margin-bottom: 150px;
+}
+
+.sobre-mim h2 {
+  padding-top: 51px;
+  margin-bottom: 28px;
+}
+
+.sobre-mim p {
+  opacity: 0.8;
+  width: 430px;
+  margin-bottom: 26px;
+}
+
+.sobre-mim a {
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: 113px;
+  margin-bottom: 75px;
+}
