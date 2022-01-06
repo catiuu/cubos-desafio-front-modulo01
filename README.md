@@ -18,6 +18,18 @@ O objetivo deste exercício é replicar um website encontrado [aqui](https://www
  - [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
  - [Contato](#Contato)
 
+## Habilidades praticadas:
+- Elementos semânticos de bloco
+- Links no HTML
+- Box-model
+- Importação e estilização de fonts 
+- Imagens de fundo
+- Layout flex
+- Debug no CSS
+- Elementos de formulário
+- Estilizando inputs e botões 
+- Pseudo classes focus e hover
+
 ### Home
 
 Seções
@@ -140,15 +152,3 @@ Seções
 - Contato Section ![](https://i.imgur.com/VvO2m7w.png)
 
 - Footer ![](https://i.imgur.com/P06m37L.png)
-
-## Habilidades praticadas:
-- Elementos semânticos de bloco
-- Links no HTML
-- Box-model
-- Importação e estilização de fonts 
-- Imagens de fundo
-- Layout flex
-- Debug no CSS
-- Elementos de formulário
-- Estilizando inputs e botões 
-- Pseudo classes focus e hover
